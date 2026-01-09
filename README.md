@@ -1,6 +1,8 @@
 
 # Data Analysis - EDA Checkpoint 2 Project
 
+For Checkpoint 2, I performed exploratory data analysis to understand the structure, quality, and key characteristics of the hotel booking dataset. This included inspecting data types, identifying missing values, reviewing summary statistics, and creating visualizations to observe trends and relationships. The EDA provided insights into pricing behavior, booking patterns, and variables relevant for further analysis.
+
 ## Dataset
 - **Source:** https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
 - **File used:** hotel_bookings.csv
